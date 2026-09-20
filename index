@@ -1,43 +1,34 @@
-Privacy Policy for Mobile Puzzle Game
-Last updated: September 20, 2026
+Last Updated: September 20, 2026
 
-This Privacy Policy describes how we collect, use, and disclose your information when you use our mobile application (the "Service").
+This Privacy Policy explains how information is collected, used, and safeguarded when you play the mobile application Dreams Puzzle Adventure ("the Game").
 
-1. Information We Collect Automatically
-When you download and play our game, certain information is automatically collected by third-party services integrated into the application:
+By downloading and using the Game, you agree to the collection and use of information in accordance with this policy.
 
-Device & Usage Data: IP address, unique device identifiers (Android ID, Advertising ID), device model, operating system version, system language, and network status.
+1. Information Collection and Use
+Dreams Puzzle Adventure does not directly collect, store, or require personal identification information (such as your name, physical address, email address, or phone number).
 
-Gameplay Data: Game progress, unlocked levels, and basic local saved data stored via PlayerPrefs on your device.
+However, to provide advertisements, analyze gameplay performance, and improve the user experience, certain non-personal technical data may be automatically processed through third-party services:
 
-2. Third-Party Services and Analytics
-Our application integrates third-party Software Development Kits (SDKs) to provide core functionalities, performance monitoring, and advertising:
+Device Data: Device model, operating system version, and unique device identifiers (e.g., Advertising ID / IDFA).
 
-Unity Technologies (Unity Ads / Unity Gaming Services): Used to deliver in-game advertisements (interstitial ads) and analyze basic application performance. Unity may collect device identifiers and location data to deliver personalized or contextual ads.
+Usage & Diagnostic Data: In-game progress, session durations, crash logs, and general performance metrics.
 
-Unity Privacy Policy
+2. Third-Party Services
+The Game integrates third-party Software Development Kits (SDKs) to facilitate advertising, analytics, and platform services. These third parties collect and process data governed by their respective privacy policies:
 
-3. How We Use Your Information
-The collected data is used exclusively to:
+Google Play Services (Achievements and Leaderboards)
 
-Ensure proper functionality and performance of the game.
+Unity Ads / Google AdMob (In-game advertising display)
 
-Display contextual or personalized advertisements.
+Unity Analytics / Firebase (App performance and crash reporting)
 
-Store your level progress and album unlocks locally on your device.
+These third-party networks may use your device's Advertising ID to deliver relevant ads and maintain service reliability.
 
-4. Children's Privacy (COPPA Compliance)
-Our Service does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can perform the necessary actions.
+3. Children's Privacy
+We are committed to protecting the privacy of young players. The Game does not knowingly collect personally identifiable information from children under the age of 13 (or the applicable age limit in your jurisdiction). If you become aware that a child has provided personal information without parental consent, please contact us so we can promptly delete such data.
 
-5. Data Storage & Security
-Your gameplay progress and settings are stored locally on your device using encrypted storage patterns (PlayerPrefs). We do not maintain external private servers to store your personal identity or credentials.
+4. Data Security
+We value your trust and strive to handle data responsibly. While we do not harvest personal details directly, all automated technical telemetry relies on industry-standard security measures implemented by our third-party SDK partners.
 
-6. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
-
-7. Contact Us
-If you have any questions or suggestions about this Privacy Policy, please contact us at:
-
-Email: [E-Posta Adresini Yaz]
-
-Developer/Studio: [Geliştirici veya Stüdyo Adını Yaz]
+5. Changes to This Privacy Policy
+This Privacy Policy may be updated periodically. Any changes will be posted on this page with an updated "Last Updated" date. You are advised to review this Privacy Policy periodically for any changes.
